@@ -133,5 +133,5 @@
 
      <!-- Floating action button -->
     <color name="fab_color">#ffffffff</color>
-    <color name="floating_action_button_icon_color">#ffffff</color>
+    <color name="floating_action_button_icon_color">#ffccccccc</color>
 </resources>
